@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Lua-black?style=flat&logo=lua" />
   <img src="https://img.shields.io/badge/FiveM-dev-red?style=flat" />
+  <img src="https://img.shields.io/badge/Discord-domiciliation-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
 </p>
 
 ---
