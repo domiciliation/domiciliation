@@ -2,7 +2,7 @@
   <img src="banner.png" />
 </p>
 
-<h1 align="center">domiciliation / Benew 👋</h1>
+<h1 align="center">domiciliation (aka Benew) 👋</h1>
 
 <p align="center">
   versatile developer • C++ focused • creative
