@@ -43,3 +43,5 @@ Languages  : C++ / Python / Lua
 Development: FiveM / tools / systems
 Creative   : Photoshop / After Effects
 Tools      : Git / VS Code
+```
+<p align="center"> <i>build, break, learn, repeat</i> </p> <p align="center"> 🤝 free for collaboration </p>
