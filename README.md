@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/mii.png" width="150" />
+</p>
+
 <h1 align="center">domiciliation / Benew 👋</h1>
 
 <p align="center">
