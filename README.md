@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mii.png" width="150" />
+  <img src="banner.png" />
 </p>
 
 <h1 align="center">domiciliation / Benew 👋</h1>
